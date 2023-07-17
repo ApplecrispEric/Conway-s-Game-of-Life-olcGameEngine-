@@ -1,7 +1,7 @@
 # Conway's Game of Life (olcGameEngine)
 This is a recreation of John Conway's classic Game of Life created using C++ and the OneLoneCoder's Pixel Game Engine.
 
-- [olcPixelGameEngine] (https://github.com/OneLoneCoder/olcPixelGameEngine)
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 ## License:
 Copyright 2018-2022 OneLoneCoder.com
